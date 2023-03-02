@@ -1,10 +1,8 @@
 h1{
     text-align: center;
-    text-decoration: underline;
-    color: rgb(255, 255, 255);
-    font-size: 36px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
     font-weight: bold;
-    text-underline-offset: 20px;
 }
 p{
     font-weight: bold;
